@@ -4,6 +4,7 @@
 <p>
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-FF0000?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="Rails" src="https://img.shields.io/badge/-Rails-FF0000?style=flat-square&logo=rails&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
