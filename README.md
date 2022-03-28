@@ -2,7 +2,7 @@
 <p>Welcome to my page! </br> I'm Valentin, Ruby developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lyon, France</b>
 <h3>Things I code with</h3>
 <p>
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-FF0000?style=flat-square&logo=ruby&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
