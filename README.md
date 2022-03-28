@@ -14,5 +14,8 @@
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ValentinBeaussart&show_icons=true&theme=graywhite" alt="Github Stats" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=ValentinBeaussart&show_icons=true&theme=graywhite" alt="Github Stats" />
+<h3>Where to find me</h3>
+<p><a href="https://github.com/ValentinBeaussart" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+   <a href="https://www.linkedin.com/in/valentin-beaussart/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
