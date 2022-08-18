@@ -13,7 +13,7 @@
   <img alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="vue" src=" 	https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=ValentinBeaussart&show_icons=true&theme=graywhite" alt="Github Stats" />
 <h3>Where to find me</h3>
