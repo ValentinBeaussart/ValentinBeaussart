@@ -14,6 +14,7 @@
   <img alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="apple" src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white" />
 </p>
 <h3>Where to find me</h3>
    <a href="https://www.linkedin.com/in/valentin-beaussart/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
