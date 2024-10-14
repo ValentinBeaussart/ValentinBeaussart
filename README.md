@@ -24,6 +24,8 @@
    <a href="https://www.linkedin.com/in/valentin-beaussart/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a> 
 </p>
 <h3>My projects</h3>
+   <a href="https://valentin-beaussart.fr/" target="_blank">https://valentin-beaussart.fr/</a>
+   <br>
    <a href="https://histoire-de-france.ovh/" target="_blank">https://histoire-de-france.ovh/</a>
    <br>
    <a href="https://www.kda-sc.fr/" target="_blank">https://www.kda-sc.fr/</a> 
