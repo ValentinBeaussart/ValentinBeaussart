@@ -26,6 +26,8 @@
 <h3>My projects</h3>
    <a href="https://valentin-beaussart.fr/" target="_blank">https://valentin-beaussart.fr/</a>
    <br>
+   <a href="https://florapedia.fr/" target="_blank">https://florapedia.fr/</a>
+   <br>
    <a href="https://histoire-de-france.ovh/" target="_blank">https://histoire-de-france.ovh/</a>
    <br>
    <a href="https://www.kda-sc.fr/" target="_blank">https://www.kda-sc.fr/</a> 
