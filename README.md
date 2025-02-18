@@ -28,7 +28,5 @@
    <br>
    <a href="https://florapedia.fr/" target="_blank">https://florapedia.fr/</a>
    <br>
-   <a href="https://histoire-de-france.ovh/" target="_blank">https://histoire-de-france.ovh/</a>
-   <br>
    <a href="https://www.kda-sc.fr/" target="_blank">https://www.kda-sc.fr/</a> 
 
